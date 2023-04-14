@@ -1,4 +1,4 @@
-# Actividad1-IDEEN
+# Actividad1-IDEEN 2
 El objetivo de esta actividad es familiarizarse con el uso de Git. Para ello se deben seguir las siguientes actividades:
 
 Descargar e instalar la última versión de Git.
@@ -12,4 +12,4 @@ Hacer cambios diferentes en el texto descriptivo tanto de la rama Dev1 como de l
 Hacer una mezcla de las ramas Dev1 y Dev2 en una tercera rama (Master).
 Hacer público el proyecto en la rama Master y enviar el enlace correspondiente.
 
-Prueba de ReadMe
+Prueba de ReadMe modificada para el merge en rama 3
